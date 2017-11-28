@@ -1,6 +1,5 @@
 {
   "name": "@polymer/paper-progress",
-  "flat": true,
   "version": "3.0.0-pre.1",
   "description": "A material design progress bar",
   "contributors": "The Polymer Authors",
